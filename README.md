@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, welcome to my GitHub! 👋
+Hello, I'm Emmanuel Iyahen, a seasoned  Database Engineer and Data Scientist committed to the design, development, implementation, and management of database systems as well as transforming raw data into meaningful narratives that drive informed decisions. 
 <!--
 **manueldavis/manueldavis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
